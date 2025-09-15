@@ -1,8 +1,5 @@
 import numpy as np
-import os
-os.chdir('..')
 from SISN_mp import *
-os.chdir('paperFigs')
 import matplotlib
 import matplotlib.pyplot as plt
 
